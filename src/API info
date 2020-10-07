@@ -1,0 +1,5 @@
+API Key: 
+    da6abdea97d375c2a6f00d22e7df9a7d
+
+Example API request:
+    https://api.themoviedb.org/3/movie/550?api_key=da6abdea97d375c2a6f00d22e7df9a7d

@@ -2,11 +2,27 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import SearchMovies from './SearchMovie'
 import * as serviceWorker from './serviceWorker';
+
+
+class Main extends React.Component {
+  render(){
+    return(
+      <div className='container'>
+        <h1 className='title'>React Movie Search</h1>
+        <SearchMovies />
+      </div>
+    )
+  }
+}
+
+
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <Main />
   </React.StrictMode>,
   document.getElementById('root')
 );
