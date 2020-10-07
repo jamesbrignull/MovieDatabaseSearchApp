@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import SearchMovies from './SearchMovie'
+import SearchMovies from './SearchMovie.js'
 import * as serviceWorker from './serviceWorker';
 
 
