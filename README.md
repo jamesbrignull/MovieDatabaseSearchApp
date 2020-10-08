@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+Project created as part of 'Learn React' course on Scrimba.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
